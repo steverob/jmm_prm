@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  partner_id: 
+  status: MyString
+  languages: 
+  start_date: 2016-06-16
+
+two:
+  partner_id: 
+  status: MyString
+  languages: 
+  start_date: 2016-06-16
