@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  line_one: MyString
+  line_two: MyString
+  line_three: MyString
+  city: MyString
+  pincode: MyString
+  district_code: MyString
+  primary: false
+  valid: false
+  partner_id: 
+
+two:
+  line_one: MyString
+  line_two: MyString
+  line_three: MyString
+  city: MyString
+  pincode: MyString
+  district_code: MyString
+  primary: false
+  valid: false
+  partner_id: 
